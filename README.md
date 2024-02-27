@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkobal&label=Profile%20views&color=0e75b6&style=flat" alt="akashkobal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal" /></a> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/akashkobal05" target="blank"><img src="https://img.shields.io/twitter/follow/akashkobal05?logo=twitter&style=for-the-badge" alt="akashkobal05" /></a> </p>
 
 - 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)
