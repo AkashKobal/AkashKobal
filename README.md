@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science) 
 
-- 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in)
+- 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in) 
 
 - 📝 I regularly write articles on [https://theakash.co.in/](https://theakash.co.in/)
 
