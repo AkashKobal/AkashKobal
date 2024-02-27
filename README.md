@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)
 
-- 🌱 I’m currently learning **Android Development, Web Development and Data Science**
+- 🌱 I’m currently learning **Android Development, Web Development and Data Science** 
 
 - 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science) 
 
