@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android Development, Web Development and Data Science**
 
-- 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science)
+- 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science) 
 
 - 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in)
 
