@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)
  
-- 🔭 I’m currently working on [LLM-Data Science Project](https://github.com/AkashKobal/aira)
+- 🔭 I’m currently working on [LLM Project](https://github.com/AkashKobal/aira)
 
 - 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science)  
 
@@ -16,10 +16,6 @@
 - 📫 How to reach me **akashkobal02@gmail.com**
 
 - 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
