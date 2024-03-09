@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://g.dev/theakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/theakash" height="30" width="40" /></a>
 <a href="https://codepen.io/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akash-kobal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kobal" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_kobal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_kobal__" height="30" width="40" /></a>
@@ -26,7 +27,6 @@
 <a href="https://twitter.com/akashkobal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkobal05" height="30" width="40" /></a>
 <a href="https://kaggle.com/akashkobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashkobal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18077599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18077599" height="30" width="40" /></a>
-<a href="https://dev.to/https://g.dev/theakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/theakash" height="30" width="40" /></a>
 </p>
 
 
