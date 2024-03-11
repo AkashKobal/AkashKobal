@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in) 
 
-- 📫 How to reach me **akashkobal02@gmail.com**
-
 - 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in)
 
 <h3 align="left">Connect with me:</h3>
