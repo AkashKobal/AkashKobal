@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkobal&label=Profile%20views&color=0e75b6&style=flat" alt="akashkobal" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal" /></a> </p>
- 
+  
 - 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)   
  
 - 🔭 I’m currently working on [LLM Project](https://github.com/AkashKobal/LLM-Demo.git)  
 
-- 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science)  
+- 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science)   
          
 - 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in) 
 
