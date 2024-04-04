@@ -5,7 +5,7 @@
     
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal"/></a> </p>  
       
-- 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)            
+- 🔭 I’m currently working on [Android Development Project](https://github.com/AkashKobal/Android_Development)             
     
 - 🔭 I’m currently working on [LLM Project](https://github.com/AkashKobal/LLM-Demo.git)    
  
