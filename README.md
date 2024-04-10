@@ -13,7 +13,7 @@
           
 - 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in) 
 
-- 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in)
+- 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
