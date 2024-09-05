@@ -6,7 +6,7 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkobal&label=Profile%20views&color=0e75b6&style=flat" alt="akashkobal" /> </p>                    
           
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal"/></a> </p>     
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal" /></a> </p>     
           
 - 🔭 I’m currently working on [Web Development Project](https://github.com/AkashKobal/web-development)     
       
@@ -22,13 +22,14 @@
 <p align="left">
 <a href=" https://developers.google.com/profile/u/theakash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt=" https://developers.google.com/profile/u/theakash
 " height="30" width="40" /></a>
-<a href="https://codepen.io/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akash-kobal" height="25" width="35" /></a>
+<!-- <a href="https://codepen.io/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akash-kobal" height="25" width="35" /></a> -->
 <a href="https://linkedin.com/in/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kobal" height="25" width="35" /></a>
 <a href="https://instagram.com/akash_kobal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_kobal__" height="25" width="35" /></a>
 <a href="https://fb.com/akashkobal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashkobal05" height="25" width="35" /></a>
-<a href="https://twitter.com/akashkobal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkobal05" height="25" width="35" /></a>
-<a href="https://kaggle.com/akashkobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashkobal" height="25" width="35" /></a>
-<a href="https://stackoverflow.com/users/18077599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18077599" height="25" width="35" /></a>
+<!-- <a href="https://twitter.com/akashkobal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkobal05" height="25" width="35" /></a> -->
+<!-- <a href="https://kaggle.com/akashkobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashkobal" height="25" width="35" /></a>
+  
+<a href="https://stackoverflow.com/users/18077599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18077599" height="25" width="35" /></a> -->
 </p>
 
 
