@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in)
 
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | Category        | Skills        |
 |-----------------|---------------|
