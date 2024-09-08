@@ -37,6 +37,15 @@
   
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkashKobal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkashKobal&theme=dark&hide_border=false)<br/>
+
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKobal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=" https://developers.google.com/profile/u/theakash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt=" https://developers.google.com/profile/u/theakash
