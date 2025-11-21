@@ -13,11 +13,11 @@
   </a> 
 </p>     
           
-- 🔭 I’m currently working on [Web Development Project](https://github.com/AkashKobal/web-development)     
-- 🔭 I’m currently working on [LLM Project](https://github.com/AkashKobal/LLM-Demo.git)         
-- 👯 I’m looking to collaborate on [Data Science Project](https://github.com/AkashKobal/Applied-Data-Science)       
-- 👨‍💻 All of my projects are available at [www.theakash.co.in](www.theakash.co.in) 
-- 📄 Know about my experiences [www.theakash.co.in](www.theakash.co.in)
+- Building **React + Spring Boot** applications  
+- Developing **LLM & Generative AI pipelines** (RAG, embeddings, text analysis)  
+- Working on **microservices**, **Docker**, **cloud deployments**  
+- Contributing to **data science & ML-based systems**  
+- All of my work: **www.theakash.co.in**
 
 ---
 
