@@ -11,15 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.screw-hand.vercel.app/?username=AkashKobal
-    &theme=algolia
-    &margin-w=10
-    &row=1
-    &rank=A,AA,AAA,S,SS,SSS
-    &wantAchieveSuperRank=true
-    &wantMultipleLang=true
-    &wantLongTimeAccount=true
-    &wantAll=true"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=AkashKobal&exclude=NewUser,AncientUser,Organizations,Issues"
     alt="akash-kobal-trophies"
   />
 </p>
