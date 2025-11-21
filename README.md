@@ -4,15 +4,27 @@
 <h3 align="center">A passionate software engineer from India</h3>                
    
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=akashkobal&label=Profile%20views&color=0e75b6&style=flat" alt="akashkobal" /> 
+  <img src="https://komarev.com/ghpvc/?username=AkashKobal&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKobal" /> 
 </p>                    
           
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashkobal" alt="akashkobal" />
-  </a> 
-</p>     
-          
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=AkashKobal
+    &theme=algolia
+    &margin-w=10
+    &row=1
+    &rank=A,AA,AAA,S,SS,SSS
+    &wantAchieveSuperRank=true
+    &wantMultipleLang=true
+    &wantLongTimeAccount=true
+    &wantAll=true"
+    alt="akash-kobal-trophies"
+  />
+</p>
+
+   
 - Building **React + Spring Boot** applications  
 - Developing **LLM & Generative AI pipelines** (RAG, embeddings, text analysis)  
 - Working on **microservices**, **Docker**, **cloud deployments**  
