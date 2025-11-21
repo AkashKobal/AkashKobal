@@ -16,7 +16,8 @@
   />
 </p>
 
-   
+## 🚀 What I’m Working On
+
 - Building **React + Spring Boot** applications  
 - Developing **LLM & Generative AI pipelines** (RAG, embeddings, text analysis)  
 - Working on **microservices**, **Docker**, **cloud deployments**  
