@@ -16,6 +16,83 @@
   />
 </p>
 
+<h3 align="center">🌐 Official Developer Network</h3>
+
+<p align="center">
+
+<a href="https://www.youtube.com/@Akash-Kobal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akash-kobal/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+<a href="https://x.com/AkashKobalDev" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/akashkobaldev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+
+<a href="https://dev.to/akash_kobal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40"/>
+</a>
+
+<a href="https://hashnode.com/@AkashKobal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40"/>
+</a>
+
+<a href="https://medium.com/@AkashKobal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
+</a>
+
+<a href="https://www.reddit.com/user/AkashKobal/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40"/>
+</a>
+
+<a href="https://bsky.app/profile/akashkobal.bsky.social" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" width="40"/>
+</a>
+
+<a href="https://mastodon.social/@akashkobal" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="40"/>
+</a>
+
+<a href="https://discord.gg/AkashKobal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">📢 Community Channels</h3>
+
+<p align="center">
+
+<a href="https://t.me/AkashKobalDev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb7nySD6GcG9ra1hQV0a" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">☕ Support My Work</h3>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/AkashKobal" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/>
+</a>
+</p>
+
+
 ## 🚀 What I’m Working On
 
 - Building **React + Spring Boot** applications  
