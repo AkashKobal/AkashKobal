@@ -19,6 +19,17 @@
 - 🗺️ **[Travel Tracker](https://github.com/AkashKobal/travel-tracker)** - Web app to track and visualize visited countries on an interactive map
 - 🎮 **[Universal Remote Control](https://github.com/AkashKobal/universal-remote-control-)** - Arduino-based remote to control multiple devices from a single interface
 
+
+## 🚀 What I’m Working On 
+
+- Building **AI-powered developer tools** and real-world AI applications
+- Developing **LLM, voice AI, and Generative AI systems**
+- Creating **full-stack scalable applications** with modern backend architectures
+- Working on **microservices, cloud deployments**, and **open-source contributions**
+- Exploring **multimodal AI, automation** , and **productivity tools**
+- All of my work: **www.akashkobal.com**
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -107,13 +118,6 @@
 </p>
 
 
-## 🚀 What I’m Working On
-
-- Building **React + Spring Boot** applications  
-- Developing **LLM & Generative AI pipelines** (RAG, embeddings, text analysis)  
-- Working on **microservices**, **Docker**, **cloud deployments**  
-- Contributing to **data science & ML-based systems**  
-- All of my work: **www.theakash.co.in**
 
 ---
 
