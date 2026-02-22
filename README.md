@@ -40,75 +40,6 @@
 </p>
 
 
-
-<h3 align="center">🌐 Official Developer Network</h3>
-
-<p align="center">
-
-<a href="https://www.youtube.com/@Akash-Kobal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akash-kobal/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://x.com/AkashKobalDev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/akashkobaldev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-
-<a href="https://dev.to/akash_kobal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40"/>
-</a>
-
-<a href="https://hashnode.com/@AkashKobal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40"/>
-</a>
-
-<a href="https://medium.com/@AkashKobal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
-</a>
-
-<a href="https://www.reddit.com/user/AkashKobal/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40"/>
-</a>
-
-<a href="https://bsky.app/profile/akashkobal.bsky.social" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" width="40"/>
-</a>
-
-<a href="https://mastodon.social/@akashkobal" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="40"/>
-</a>
-
-<a href="https://discord.gg/AkashKobal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">📢 Community Channels</h3>
-
-<p align="center">
-
-<a href="https://t.me/AkashKobalDev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
-</a>
-
-<a href="https://whatsapp.com/channel/0029Vb7nySD6GcG9ra1hQV0a" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40"/>
-</a>
-
-</p>
-
----
-
 <h3 align="center">☕ Support My Work</h3>
 
 <p align="center">
@@ -149,11 +80,77 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://developers.google.com/profile/u/theakash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" alt="theakash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash-kobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kobal" height="25" width="35" /></a>
-<a href="https://instagram.com/akash_kobal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_kobal__" height="25" width="35" /></a>
-<a href="https://fb.com/akashkobal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashkobal05" height="25" width="35" /></a>
+
+<a href="https://github.com/AkashKobal" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" alt="GitHub"/>
+</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/akash-kobal/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+
+<a href="https://www.youtube.com/@Akash-Kobal" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube" width="40" alt="YouTube"/>
+</a>
+&nbsp;
+
+<a href="https://x.com/AkashKobalDev" target="_blank">
+  <img src="https://cdn.simpleicons.org/x" width="40" alt="X"/>
+</a>
+&nbsp;
+
+<a href="https://www.instagram.com/akashkobaldev/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram" width="40" alt="Instagram"/>
+</a>
+&nbsp;
+
+<a href="https://hashnode.com/@AkashKobal" target="_blank">
+  <img src="https://cdn.simpleicons.org/hashnode" width="40" alt="Hashnode"/>
+</a>
+&nbsp;
+
+
+<a href="https://www.reddit.com/user/AkashKobal/" target="_blank">
+  <img src="https://toppng.com/uploads/preview/reddit-icon-reddit-logo-transparent-115628752708pqmsy4kgm.png" width="40" alt="Reddit"/>
+</a>
+&nbsp;
+
+<a href="https://bsky.app/profile/akashkobal.bsky.social" target="_blank">
+  <img src="https://cdn.simpleicons.org/bluesky" width="40" alt="Bluesky"/>
+</a>
+&nbsp;
+
+<a href="https://mastodon.social/@akashkobal" target="_blank">
+  <img src="https://cdn.simpleicons.org/mastodon" width="40" alt="Mastodon"/>
+</a>
+&nbsp;
+
+<a href="https://discord.gg/AkashKobal" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord" width="40" alt="Discord"/>
+</a>
+&nbsp;
+
+<a href="https://t.me/AkashKobalDev" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram" width="40" alt="Telegram"/>
+</a>
+&nbsp;
+
+<a href="https://whatsapp.com/channel/0029Vb7nySD6GcG9ra1hQV0a" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp" width="40" alt="WhatsApp"/>
+</a>
+&nbsp;
+
+<a href="https://www.akashkobal.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome" width="40" alt="Website"/>
+</a>
+
+</p>
 </p>
 
 ---
