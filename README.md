@@ -40,13 +40,6 @@
 </p>
 
 
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/AkashKobal" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/>
-</a>
-</p>
 
 ---
 
@@ -57,7 +50,14 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 LeetCode Stats
+
+<img height="170" src="https://leetcard.jacoblin.cool/akashkobal02?theme=dark&font=baloo&border=0"/>
+
+## ☕ Support My Work</h3>
+<a href="https://www.buymeacoffee.com/AkashKobal" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 
