@@ -50,7 +50,7 @@
 
 ## ☕ Support My Work</h3>
 <a href="https://www.buymeacoffee.com/AkashKobal" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" />
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
