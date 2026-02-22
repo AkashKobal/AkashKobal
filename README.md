@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)  
    
 <h1 align="center">Hi 👋, I'm Akash</h1> 
-<h3 align="center">A passionate software engineer from India</h3>                
+<h3 align="center">Software Engineer | Open Scource Contributor | India</h3>                
    
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AkashKobal&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKobal" /> 
