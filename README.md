@@ -9,7 +9,7 @@
 
 ## Current Projects
 - 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** - the AI that actually does things
-- 🎙️ **[Voice Coding Assistant](https://github.com/openclaw/openclaw)** - AI assistant that converts voice or text into production-ready code
+- 🎙️ **[Voice Coding Assistant](https://github.com/AkashKobal/voice_coding_assistant)** - AI assistant that converts voice or text into production-ready code
 - 🧠 **[ContextMemory](https://github.com/AkashKobal/contextmemory)** - Persistent AI coding context memory that tracks your intent, architecture, and decisions for AI assistants
 - 🌐 **[AIVerse](https://github.com/AkashKobal/aiverse)** - Open-source multimodal AI platform to compare responses from multiple AI models side-by-side in real time
 - 🎓 **[TechWays](https://github.com/AkashKobal/Techways)** - Student management system with role-based access, courses, and attendance tracking
