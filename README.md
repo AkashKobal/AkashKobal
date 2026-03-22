@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=AkashKobal&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKobal" /> 
 </p>
 
-## Current Projects  
+## Current Projects    
 - 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** - the AI that actually does things
 - 🎙️ **[Voice Coding Assistant](https://github.com/AkashKobal/voice_coding_assistant)** - AI assistant that converts voice or text into production-ready code
 - 🧠 **[ContextMemory](https://github.com/AkashKobal/contextmemory)** - Persistent AI coding context memory that tracks your intent, architecture, and decisions for AI assistants
