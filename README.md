@@ -8,7 +8,7 @@
 </p>
 
 ## Current Projects
-- 🤖 **[Sarvis](https://github.com/Sarvium/sarvis)** - AI Coding Assistant for VS Code, Powered By Sarvam
+- 🤖 **[Sarvis Extension](https://github.com/sarvis-official/sarvis-extension)** - AI Coding Assistant for VS Code, Powered By Sarvam
 - 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** - The AI that actually does things
 - 🎙️ **[Voice Coding Assistant](https://github.com/AkashKobal/voice_coding_assistant)** - AI assistant that converts voice or text into production-ready code
 - 🧠 **[ContextMemory](https://github.com/AkashKobal/contextmemory)** - Persistent AI coding context memory that tracks your intent, architecture, and decisions for AI assistants
