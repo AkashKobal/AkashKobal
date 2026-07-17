@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer | Open Source Contributor | India</h3>                
    
 <p align="left">     
-  <img src="https://komarev.com/ghpvc/?username=AkashKobal&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKobal" /> 
+  <img   src="https://komarev.com/ghpvc/?username=AkashKobal&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKobal" /> 
 </p>  
   
 ## Current Projects    
